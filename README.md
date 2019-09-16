@@ -1,4 +1,4 @@
-# Fantastic Cats
+## This project is the part of udacity's Front end web developer nanodegree project.
 ## Visuals
 - The application should display 
    - a list of at least 5 cats, listed by name
