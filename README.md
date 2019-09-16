@@ -1,1 +1,2 @@
-# fantastic-cats
+# Fantastic Cats
+## Visuals
