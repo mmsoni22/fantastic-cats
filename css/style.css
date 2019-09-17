@@ -1,0 +1,28 @@
+.container {
+    text-align : center;
+     background-image: url("https://www.transparenttextures.com/patterns/cardboard.png");
+}
+
+ul li {
+list-style-type : none;
+}
+.click-number {
+    border-radius: 50%;
+    behavior: url(PIE.htc);
+    width: 36px;
+    height: 36px;
+    padding: 8px;
+    background: #fff;
+    border: 2px solid #666;
+    color: #666;
+    text-align: center;
+    font: 32px Arial, sans-serif;
+}
+img {
+    border : 5px solid black;
+    padding : 5px;
+    width : 200px;
+}
+.cat-list:hover {
+    color : red;
+}
