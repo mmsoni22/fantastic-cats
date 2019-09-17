@@ -1,4 +1,5 @@
 ## This project is the part of udacity's Front end web developer nanodegree project.
+## Live Preview : https://mmsoni22.github.io/fantastic-cats/.
 ## Visuals
 - The application should display 
    - a list of at least 5 cats, listed by name
